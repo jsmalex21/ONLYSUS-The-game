@@ -18,3 +18,5 @@ What I Learned:
   2. State Machines: Managing character states(Idle, Running, Jumping, Mantling)
   3. Optimization: Handling large vertical environments efficiently.
 <img width="1919" height="881" alt="Screenshot 2026-01-20 075508" src="https://github.com/user-attachments/assets/f3d72e7d-859c-4cb7-a21e-ab0cc772ee00" />
+<img width="1918" height="880" alt="Screenshot 2026-01-20 075721" src="https://github.com/user-attachments/assets/e450d8a0-c951-4c44-9143-9ba1a14e98f7" />
+<img width="1919" height="879" alt="Screenshot 2026-01-20 075557" src="https://github.com/user-attachments/assets/730ba10c-c708-4dbe-9e9f-7bebb2c1e3d3" />
