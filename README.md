@@ -17,3 +17,4 @@ What I Learned:
   1. Vector Mathematics: Calculating ledge positions for the mantle system.
   2. State Machines: Managing character states(Idle, Running, Jumping, Mantling)
   3. Optimization: Handling large vertical environments efficiently.
+<img width="1919" height="881" alt="Screenshot 2026-01-20 075508" src="https://github.com/user-attachments/assets/f3d72e7d-859c-4cb7-a21e-ab0cc772ee00" />
