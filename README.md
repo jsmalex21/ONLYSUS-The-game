@@ -1,2 +1,19 @@
 # ONLYSUS-The-game
 3D Third-Person Precision Platformer build in Unity with custom Mantle system and C# scripting.
+ONLYSUS is a third-person precision platformer inspired by the "Only Up" genre, developed using the Unity Engine. The core objective is simple but challenging: climb as high as possible through a series of complex obstacles without falling.
+Key Features and Tehnical Implementation:
+ Third-Person Controller: Custom-build character controller for smooth movement and precise air control.
+ Mantle System: Implemented a procedural climbing/mantling mechaninc that allows the player to grab ledges and pull themselves up, enhancing the verical gameplay.
+ Phyisics-Based Gameplay: Fine-Tuned gravity and collision detection to ensure a rewarding yet punishing platforming experience.
+ Dynamic Level Design: Vertical environment layout designed to test player patience and mechanical skill.
+ Camera System: Smooth Cinemachine-based third-person camera for optimal visibility during difficult jumps.
+Build With:
+ Engine: Unity 6.1(6000.1.2f1)
+ Language: C#
+ System: Version Control(Git)
+ Key packages: Cinemachine, Input System Package.
+What I Learned:
+ During the development of ONLYSUS, I focused on:
+  1. Vector Mathematics: Calculating ledge positions for the mantle system.
+  2. State Machines: Managing character states(Idle, Running, Jumping, Mantling)
+  3. Optimization: Handling large vertical environments efficiently.
