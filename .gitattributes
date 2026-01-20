@@ -1,0 +1,12 @@
+Lite/Scenes/TerrainDATA/Terrain.asset filter=lfs diff=lfs merge=lfs -text
+C:/Users/alexa/Documents/GitHub/ONLYSUS-The-game/Assets/ALP_Assets/Realistic filter=lfs diff=lfs merge=lfs -text
+Terrain filter=lfs diff=lfs merge=lfs -text
+Textures filter=lfs diff=lfs merge=lfs -text
+Lite/Textures/Ground001.tif filter=lfs diff=lfs merge=lfs -text
+Assets/ALP_Assets/Realistic filter=lfs diff=lfs merge=lfs -text
+Lite/Textures/Ground001_N.png filter=lfs diff=lfs merge=lfs -text
+Assets/Skybox/M3_Sky_Dome_hdri-exr_clear_blue_sky_bright_1478788763_455173.exr filter=lfs diff=lfs merge=lfs -text
+Assets/Skybox/evening_road_01_puresky_16k.hdr filter=lfs diff=lfs merge=lfs -text
+Terrain.asset filter=lfs diff=lfs merge=lfs -text
+Ground001.tif filter=lfs diff=lfs merge=lfs -text
+Ground001_N.png filter=lfs diff=lfs merge=lfs -text
